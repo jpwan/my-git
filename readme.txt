@@ -4,8 +4,4 @@ new line
 hfdsjkal
 Creating a new branch is quick.
 Creating a new branch is quick & simple.
-<<<<<<< HEAD
 aabb
-=======
-aaaa
->>>>>>> f1
