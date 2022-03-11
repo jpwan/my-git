@@ -10,3 +10,7 @@ test sourcetree
 add q1 branch
 
 q1 to master
+add q2 branch
+add q1 branch
+
+q2 to master
