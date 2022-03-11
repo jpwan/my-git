@@ -9,3 +9,5 @@ test sourcetree
 
 add q2 branch
 add q1 branch
+
+q2 to master
