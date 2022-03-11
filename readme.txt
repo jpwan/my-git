@@ -6,3 +6,8 @@ Creating a new branch is quick.
 Creating a new branch is quick & simple.
 aabb
 test sourcetree
+
+add q2 branch
+add q1 branch
+
+q2 to master
